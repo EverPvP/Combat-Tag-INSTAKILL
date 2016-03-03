@@ -1,12 +1,7 @@
-Opdateret version af Combat-Tag-Instakill
-
 # CombatTag:
-
 
 Combat tag is a plugin for bukkit which prevents pvp loggers from getting away with logging.
 This plugin was originally created by marinating. Trc is the old manager. EverPvP is currently managing this version of the plugin.
-
-
 
 ## Config file explanation:
 
